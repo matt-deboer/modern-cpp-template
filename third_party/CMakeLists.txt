@@ -3,7 +3,6 @@
 #configure directories
 set (THIRD_PARTY_MODULE_PATH "${PROJECT_SOURCE_DIR}/third_party")
 
-#BEGIN:THIRD_PARTY_DEPS
 # -------------------------------------------------------------------------
 # catch
 
@@ -29,7 +28,6 @@ set (CLARA_MODULE_PATH "${THIRD_PARTY_MODULE_PATH}/Clara")
 set (CLARA_INCLUDE_PATH "${CLARA_MODULE_PATH}/single_include")
 
 # -------------------------------------------------------------------------
-#END:THIRD_PARTY_DEPS
 
 
 #set variables
