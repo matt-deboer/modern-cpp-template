@@ -1,0 +1,8 @@
+build
+Build
+Win32
+.idea/
+cmake-build-*/
+.vs/
+.vscode/
+.history/
